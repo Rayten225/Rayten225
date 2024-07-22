@@ -1,4 +1,4 @@
-<h3 align="center">Back-end разработчик</h3>
+<h3 align="center">Back-end developer</h3>
 <picture decoding="async" loading="lazy">
   <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=Rayten225&theme=fuji">
   <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=Rayten225&screen_effect=true&theme=fuji">
@@ -15,4 +15,4 @@
   <a href="https://github.com/anuraghazra/convoychat" align="center">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rayten225&layout=compact&langs_count=8&card_width=320&theme=radical" />
   </a>
-</div><br>
+</div>
